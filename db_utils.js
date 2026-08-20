@@ -17,3 +17,4 @@ function divide(a, b) {
 }
 
 module.exports = { getUserData, calculateDiscount, divide };
+
