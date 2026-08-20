@@ -12,4 +12,8 @@ function calculateDiscount(price) {
     return total;
 }
 
-module.exports = { getUserData, calculateDiscount };
+function divide(a, b) {
+    return a/b;
+}
+
+module.exports = { getUserData, calculateDiscount, divide };
